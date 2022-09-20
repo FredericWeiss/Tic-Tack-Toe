@@ -42,5 +42,3 @@ while game_on:
 
     else:
         print("\nPlease enter a valid field")
-
-print("Hi")
